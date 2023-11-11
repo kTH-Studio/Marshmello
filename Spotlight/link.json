@@ -1,5 +1,6 @@
 [{"name":"Spotlight",
 "artist":"Marshmello, Lil Peep",
+"artist_uri":"[{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Marshmello\",\"link\":\"https://kth-studio.github.io/Marshmello/link.json\"},{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Lil Peep\"}]",
 "genre_en":"Alternative","genre_de":"Alternative","genre_ru":"Альтернатива",
 "release":"2018",
 "date_en":"12 january, 2018","date_de":"12. Januar 2018","date_ru":"12 января 2018",
