@@ -6,6 +6,7 @@
 "artist_uri":"[{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"AC Slater\"},{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Chris Lorenzo\"}]",
 "album":"Marshmello Fortnite Extended Set (DJ Mix)",
 "album_uri":"https://kth-studio.github.io/Marshmello/Marshmello%20Fortnite%20Extended%20Set%20(DJ%20Mix)/link.json",
-"name":"Giant Mouse (Mixed)",
+"name":"Giant Mouse",
+"prefix":"(Mixed)",
 "explicit":"no",
 "text":"[{\"text\":\"Hands up\nHands up\nEverybody now\nLet me see your hands up\nEverybody now\nLet me see your hands up\nEverybody now\nLet me see your hands up, right now\nHands up\nHands up\nEverybody now\nLet me see your hands up\nEverybody now\nLet me see your hands up\nEverybody now\nLet me see your hands up\nRight now\n\n\",\"written\":\"AC Slater\"}]"}]

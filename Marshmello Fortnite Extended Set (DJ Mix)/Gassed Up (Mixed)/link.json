@@ -6,5 +6,6 @@
 "artist_uri":"[{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Jauz\"},{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"DJ Snake\"}]",
 "album":"Marshmello Fortnite Extended Set (DJ Mix)",
 "album_uri":"https://kth-studio.github.io/Marshmello/Marshmello%20Fortnite%20Extended%20Set%20(DJ%20Mix)/link.json",
-"name":"Gassed Up (Mixed)",
+"name":"Gassed Up",
+"prefix":"(Mixed)",
 "explicit":"no"}]

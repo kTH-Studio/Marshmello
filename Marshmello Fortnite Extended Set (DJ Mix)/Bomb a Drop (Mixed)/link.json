@@ -6,6 +6,7 @@
 "artist_uri":"[{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Garmiani\"}]",
 "album":"Marshmello Fortnite Extended Set (DJ Mix)",
 "album_uri":"https://kth-studio.github.io/Marshmello/Marshmello%20Fortnite%20Extended%20Set%20(DJ%20Mix)/link.json",
-"name":"Bomb a Drop (Mixed)",
+"name":"Bomb a Drop",
+"prefix":"(Mixed)",
 "explicit":"no",
 "text":"[{\"text\":\"Bomb\nBomb\nBomb a drop\n\n\",\"written\":\"Delroy Pairt, Garmiani,Kemar Ottey, Ricardo Johnson\"}]"}]

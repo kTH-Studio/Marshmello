@@ -6,5 +6,6 @@
 "artist_uri":"[{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Marshmello\",\"image\":\"https://kth-studio.github.io/Marshmello/image.jpg\",\"link\":\"https://kth-studio.github.io/Marshmello/link.json\"}]",
 "album":"Marshmello Fortnite Extended Set (DJ Mix)",
 "album_uri":"https://kth-studio.github.io/Marshmello/Marshmello%20Fortnite%20Extended%20Set%20(DJ%20Mix)/link.json",
-"name":"Flashbacks (Mixed)",
+"name":"Flashbacks",
+"prefix":"(Mixed)",
 "explicit":"no"}]

@@ -6,6 +6,7 @@
 "artist_uri":"[{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Nonsens\"}]",
 "album":"Marshmello Fortnite Extended Set (DJ Mix)",
 "album_uri":"https://kth-studio.github.io/Marshmello/Marshmello%20Fortnite%20Extended%20Set%20(DJ%20Mix)/link.json",
-"name":"Make It Pop (Mixed)",
+"name":"Make It Pop",
+"prefix":"(Mixed)",
 "explicit":"no",
 "text":"[{\"text\":\"Make it pop\n\n\",\"written\":\"Nonsens\"}]"}]

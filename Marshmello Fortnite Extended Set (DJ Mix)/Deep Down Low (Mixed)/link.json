@@ -6,6 +6,7 @@
 "artist_uri":"[{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Valentino Khan\"}]",
 "album":"Marshmello Fortnite Extended Set (DJ Mix)",
 "album_uri":"https://kth-studio.github.io/Marshmello/Marshmello%20Fortnite%20Extended%20Set%20(DJ%20Mix)/link.json",
-"name":"Deep Down Low (Mixed)",
+"name":"Deep Down Low",
+"prefix":"(Mixed)",
 "explicit":"no",
 "text":"[{\"text\":\"Get low, get low, jump back\n\n\",\"written\":\"Valentino Khan\"}]"}]

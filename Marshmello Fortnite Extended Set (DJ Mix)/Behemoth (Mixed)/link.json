@@ -6,6 +6,7 @@
 "artist_uri":"[{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"SVDDEN DEATH\"}]",
 "album":"Marshmello Fortnite Extended Set (DJ Mix)",
 "album_uri":"https://kth-studio.github.io/Marshmello/Marshmello%20Fortnite%20Extended%20Set%20(DJ%20Mix)/link.json",
-"name":"Behemoth (Mixed)",
+"name":"Behemoth",
+"prefix":"(Mixed)",
 "explicit":"no",
 "text":"[{\"text\":\"Let me see you shake them\nTake them\nPop that, pop that\nDoo doo brown\n\n\",\"written\":\"SVDDEN DEATH\"}]"}]
