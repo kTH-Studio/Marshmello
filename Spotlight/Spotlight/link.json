@@ -1,4 +1,5 @@
-[{"music":"https://kth-studio.github.io/Marshmello/Spotlight/Spotlight/music.mp3",
+[{"color":"3",
+"music":"https://kth-studio.github.io/Marshmello/Spotlight/Spotlight/music.mp3",
 "image":"https://kth-studio.github.io/Marshmello/Spotlight/image.jpg",
 "artist":"Marshmello, Lil Peep",
 "artist_uri":"[{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Marshmello\",\"image\":\"https://kth-studio.github.io/Marshmello/image.jpg\",\"link\":\"https://kth-studio.github.io/Marshmello/link.json\"},{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Lil Peep\"}]",
